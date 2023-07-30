@@ -41,3 +41,5 @@ Os conteúdos principais  a serem estudados são:
 - [x] [Criar um readme](https://www.youtube.com/watch?v=1QKwP0SJK-c "Crie um readme") para o projeto;
 
 ## Deploy do projeto
+
+pokedex-rlm-labenu.surge.sh
